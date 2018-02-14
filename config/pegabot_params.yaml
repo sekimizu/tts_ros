@@ -1,0 +1,4 @@
+tts:
+  TOPIC_FROM: 'tts_speak'
+  TMP_FILE_LOCATION: '/tmp/voice.wav'
+  VOLUME: 1.0
